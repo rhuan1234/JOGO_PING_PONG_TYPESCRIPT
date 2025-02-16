@@ -23,3 +23,6 @@ O jogo foi desenvolvido seguindo os conceitos de **POO**, onde cada elemento tem
 - Manipulação do Canvas API para renderização
 - Gerenciamento de eventos e lógica de colisão
 - Sinta-se à vontade para contribuir ou deixar sugestões! 😃🎾
+
+## Observação:
+- O jogo precisa de 2 pessoas para ser jogado. Uma controla o W e S equanto a outra controla o ⬆️ e ⬇️
